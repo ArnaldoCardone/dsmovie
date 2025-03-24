@@ -1,0 +1,10 @@
+com\devsuperior\dsmovie\services\MovieServiceTests.class
+com\devsuperior\dsmovie\tests\UserFactory.class
+com\devsuperior\dsmovie\tests\UserDetailsImpl.class
+com\devsuperior\dsmovie\DsmovieApplicationTests.class
+com\devsuperior\dsmovie\tests\MovieFactory.class
+com\devsuperior\dsmovie\tests\ScoreFactory.class
+com\devsuperior\dsmovie\tests\UserDetailsFactory.class
+com\devsuperior\dsmovie\services\ScoreServiceTests.class
+com\devsuperior\dsmovie\tests\TokenUtil.class
+com\devsuperior\dsmovie\services\UserServiceTests.class

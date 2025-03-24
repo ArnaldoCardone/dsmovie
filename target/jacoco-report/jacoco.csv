@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+dsmovie,com.devsuperior.dsmovie.services,MovieService,118,3,2,0,27,1,9,1,8,1
+dsmovie,com.devsuperior.dsmovie.services,UserService,70,3,4,0,14,1,4,1,2,1
+dsmovie,com.devsuperior.dsmovie.services,ScoreService,86,3,2,0,17,1,3,1,2,1
